@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6be5a54df9f2f4d4caff58baacc56106
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bananaPrefab: {fileID: 1796606364441768511, guid: a87dbff17ee7440d086cad9f8bc7b2fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
