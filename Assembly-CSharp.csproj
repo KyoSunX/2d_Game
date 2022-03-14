@@ -55,6 +55,64 @@
      <Compile Include="Assets\Levels\Assets\SpritesGOHistory\Level1_BigBang\Scripts\PlayerMonkeyMovement.cs" />
      <Compile Include="Assets\Scripts\BananaSpawner.cs" />
      <Compile Include="Assets\Scripts\BananaController.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\onQuitButton.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Dash.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\NPC\DuckController.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Move.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\SunRotation.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\MoveToRB.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\GrabObject.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\EnviormentFollow.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\MoveTo.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\PlayMenu.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Ground\ReplaceTiles.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\ObjectGenerator.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\OptionsButtonObject.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\InvertScale.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\MenuTemplate.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\BackButtonObject.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\InstantiateAtRuntime.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Jump.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Duck.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Climb.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\ChangeColour.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\Camerafollow.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\UI\Pause.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\TerrainGenerator.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Common\Weather.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Spell.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\Hurt.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\SceneSwitcher.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\QuitButtonObject.cs" />
+     <Compile Include="Assets\Animations\GOH\MainMenu\Scripts\SaveOnCheckpoint.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\Player\ControlAnimations.cs" />
+     <Compile Include="Assets\Animations\GOH\Game Of History\Scripts\NPC\ControlSimpleAnim.cs" />
+     <None Include="Assets\Animations\GOH\Game Of History\Sprites\External\Sprites Level\Readme.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\Animations\GOH\Game Of History\Sprites\Internal\Characters\Warrior\License.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Fonts\mini-pixel-7\readme.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\Animations\GOH\Game Of History\Levels\Level3_mundial_war\Sprites\PixelMedalSet\Medal\ReadMe.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Animations\GOH\Game Of History\Sprites\Internal\Characters\Warrior\Contact.txt" />
+     <None Include="Assets\Animations\GOH\Utilities\TextMesh Pro\Shaders\TMP_Sprite.shader" />
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -688,6 +746,12 @@
  <Reference Include="Unity.2D.IK.Runtime">
  <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
  <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
@@ -714,12 +778,6 @@
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
  <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.cinemachine.editor">
- <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>/Users/juan/Desktop/Juan/Proyectos/BasicsUnity/2d_Game/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
