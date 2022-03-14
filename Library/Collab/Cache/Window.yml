@@ -14,12 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Game Of History/Sprites/Environment/Blocks/block-no-grass.asset
-    - Assets/Scenes/Scene1.unity
-    - Assets/Scenes/Scene2.unity
-    - ProjectSettings/ProjectVersion.txt
+    - "Assets/Animations/GOH/Game Of History/Animations/UI/Corac\u0327a\u0303o-Cristal-Pulso_0.controller"
     - 
-    m_Values: 0101010101
+    m_Values: 0101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
